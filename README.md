@@ -1,0 +1,1 @@
+This is the One Month Rails Pinteresting app.
